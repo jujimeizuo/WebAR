@@ -22,11 +22,17 @@ ios现在需要https来访问，所以需要内网穿透。
 	
 	```
 	cd ~/WebAR
+	```
+	```
 	node index.js
-	![134933ED-23C2-432D-BE29-116F98413E50](https://user-images.githubusercontent.com/61532079/137855795-ab384958-7357-45ab-96be-65d0e9af2a4d.png)
+	```
+	![image](https://user-images.githubusercontent.com/61532079/137856529-1c8b8657-e9ae-44d3-963d-0d7e6a0bf276.png)
 
+	```
 	./ngrok http 8080
-	![A836AAE2-5FF2-49AD-B2A8-628353BEE48E](https://user-images.githubusercontent.com/61532079/137855886-2417d2d1-5288-4c78-92e0-20291401164d.png)
+	```
+	![04631FF85D1A7925FCC5B670D9F0E3A5](https://user-images.githubusercontent.com/61532079/137856514-cf028bd3-17fd-4aa8-a0ea-1761c8095bf5.png)
+
 	
 	
 	```
