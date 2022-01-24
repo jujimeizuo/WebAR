@@ -1,7 +1,6 @@
 Thank for [Mars Wang42](https://github.com/MarsWang42)
 # WebAR
 
-
 - 安装n与Node.js
 	MacOS与Linux
 	``` 
